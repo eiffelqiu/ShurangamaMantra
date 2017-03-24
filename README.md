@@ -11,11 +11,10 @@ email   : eiffelqiu [at] qq DOT com
 website : www.likenote.com
 ```
 
-```
 [请法]: preface.md
 [第一会  毗卢真法会]: chapter1.md
 [第二会 释尊应化会]: chapter2.md
 [第三会  观音合同会]: chapter3.md
 [第四会 刚藏折摄会]: chapter4.md
 [第五会  文殊弘传会]: chapter5.md
-```
+
