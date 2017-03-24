@@ -17,4 +17,3 @@ website : www.likenote.com
 [第三会  观音合同会]: chapter3.md
 [第四会 刚藏折摄会]: chapter4.md
 [第五会  文殊弘传会]: chapter5.md
-
