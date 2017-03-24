@@ -1,0 +1,5 @@
+# IDE #
+.idea/
+*.swp
+.DS_Store
+fix
