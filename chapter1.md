@@ -173,7 +173,7 @@
 #### 七 折摄天神
 
 >##### 羯罗诃 娑诃萨罗若闍 毗多崩娑那羯唎  
->>jié là hē.suō hē sà là ruò shé   pí duō bēng suō nuó jié lī
+>>     jié là hē.suō hē sà là ruò shé   pí duō bēng suō nuó jié lī
 >>>     娑婆大千界内，八万四千诸天金刚护法众普皆来集，（毗多崩娑）破平障难，打破一切诸害）  娑诃, 萨罗:归往 若闍：勾抓，羯唎：度
 
 >##### 阿瑟吒冰 舍帝南  
@@ -281,7 +281,7 @@
 >>>     护中央佛部金刚神 
 
 >##### 跋闍罗 制喝那阿遮 
->>b á shé là .zhì hē nuó a zhē
+>>     b á shé là .zhì hē nuó a zhē
 >>>     护金刚部金刚神  
 
 >##### 摩罗制婆  
