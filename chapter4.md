@@ -2,24 +2,24 @@
 
 #### 一 心咒首领
 
->#####  婆伽梵萨怛多般怛罗 
->>     pó qié fàn sà dá duō.bō dá là 
+>#####  婆伽梵, 萨怛多, 般怛罗 
+>>     pó qié fàn. sà dá duō. bō dá là 
 >>>      再仰佛力华盖
 
 >#####  南无粹都帝. 阿悉多那罗剌迦. 波罗婆. 悉普吒. 毗迦萨怛多钵帝唎 
->>     ná mó cuì dū dì. ā xī duō nuó là là jiā . bō là pó .xī pǔ zha.̀ pí jiā sà dá duō.bō dì lī
+>>     ná mó cuì dū dì. ā xī duō nuó là là jiā. bō là pó. xī pǔ zhà. pí jiā sà dá duō. bō dì lī
 >>>      我今敬礼，赤光缭绕、紫光盘簇、白光旋转
 
 >#####  什佛罗什佛罗 
->>     shí fó là.shí fó là
+>>     shí fó là. shí fó là
 >>>      光燄遍照、光燄遍照
 
 >#####  陀罗,陀罗,频陀罗,频陀罗,瞋陀,瞋陀 
->>     tuó là tuó là pín tuó là.pín tuó là.chēn tuó chēn tuó
+>>     tuó là. tuó là. pín tuó là. pín tuó là. chēn tuó chēn tuó
 >>>      云盖、云盖香盖、香盖珠盖、珠盖遍满法界、遍满法界
 
 >#####  虎（合牛）虎（合牛）泮吒,泮吒,泮吒,泮吒,泮吒,娑诃
->>     hú xīn hú xīn, pàn zhà pàn zhà pàn zhà pàn zhà pàn zhà, suō hē
+>>     hú xīn. hú xīn. pàn zhà. pàn zhà. pàn zhà. pàn zhà. pàn zhà. suō hē
 >>>      降伏、降伏、摧碎、摧碎、摧碎、摧碎、摧碎，灾恶顿消，吉祥成就. 敕天上地下一切众，灭除众恶收摄不祥
 
 #### 二 五部开发
@@ -29,7 +29,7 @@
 >>>      解脱一切，不空我愿，愿无障碍，所愿随心
 
 >#####  阿素罗毗陀罗波迦泮 
->>     ā sù là.pí tuó là.bō jiā pàn
+>>     ā sù là. pí tuó là. bō jiā pàn
 >>>      破碎修罗, 大力持
 
 #### 三 八部通伏
@@ -87,25 +87,25 @@
 >>>      破一切非命
 
 >#####  萨婆毗陀耶, 罗誓遮犁弊泮 
->>     sà pó pí tuó ye . là shì zhē lí bì pàn
+>>     sà pó pí tuó ye. là shì zhē lí bì pàn
 >>>      破一切毒气
 
 #### 四 刚王护法
 
 >#####  闍夜羯罗, 摩度羯罗, 萨婆罗, 他娑陀鸡弊泮 
->>     shé yè jié là.mó dù jié là. sà pó là. tuō suō tuó jī bì pàn
+>>     shé yè jié là. mó dù jié là. sà pó là. tuō suō tuó jī bì pàn
 >>>      解诸重难
 
 >#####  毗地夜, 遮唎弊泮
 >>     pí dì yè.zhē lī bì pàn
 >>>      解疟壮热疟
 
->#####  者都罗缚耆你弊泮 
->>     zhě dū là.fù qí nǐ bì pàn
+>#####  者都罗, 缚耆你弊泮 
+>>     zhě dū là. fù qí nǐ bì pàn
 >>>      降伏外道
 
 >#####  跋闍罗俱摩唎毗陀夜罗誓弊泮
->>     bá shé là.jù mó lī  pí tuó yè.là shì bì pàn
+>>     bá shé là. jù mó lī  pí tuó yè. là shì bì pàn
 >>>      解诸恶毒
  
 >#####  摩诃波罗丁羊, 乂耆唎弊泮 
@@ -113,7 +113,7 @@
 >>>      伏诸厄难
 
 >#####  跋闍罗, 商羯罗夜, 波罗丈耆, 罗闍耶泮 
->>     bá shé là.shāng jié là yè . bō là zhàng qí.là shé yē pàn
+>>     bá shé là. shāng jié là yè . bō là zhàng qí. là shé yē pàn
 >>>      降伏一切恶道
 
 >#####  摩诃迦罗夜, 摩诃末怛唎迦拏
@@ -176,6 +176,6 @@
 >>     yǎn jí zhì sà duǒ pó xiě
 >>>      普令诸恶鬼神，皆悉摧碎
 
->#####  麼麼印兔那麼麼写 
->>     mó mó yìn tù nuó mó mó xiě
+>#####  麼麼, 印兔那, 麼麼写 
+>>     mó mó. yìn tù nuó. mó mó xiě
 >>>      我今所作心咒法，三宝印知，所作究竟圆满
