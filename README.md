@@ -16,8 +16,8 @@
 
 [第五会  文殊弘传会](https://github.com/eiffelqiu/ShurangamaMantra/blob/master/chapter5.md "第五会  文殊弘传会")
 
-```
-author  : 老莫
-email   : eiffelqiu [at] qq DOT com
-website : www.likenote.com
-```
+
+##### author  : 老莫
+##### email   : eiffelqiu [at] qq DOT com
+##### website : [www.likenote.com](http://www.likenote.com "www.likenote.com")
+
