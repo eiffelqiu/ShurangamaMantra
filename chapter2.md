@@ -73,5 +73,5 @@
 #### 八  印令圆成 准义思知
 
 >#####  乌（合牛） 莎悉帝 薄婆都 麼麼 印兔那麼麼写 
->>     wū xīn. suō xī di.̀ bó pó dū. mó mó. yìn tù nuó mó mó xiě
+>>     wū xīn. suō xī dì. bó pó dū. mó mó. yìn tù nuó mó mó xiě
 >>>      嗡 一切诸部大力金刚神王众，承佛威力，率诸眷属，常随护我，所作诸法皆悉究竟
