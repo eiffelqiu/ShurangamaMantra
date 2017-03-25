@@ -4,7 +4,7 @@
 专为背诵《楞严咒》制作，根据续法和宣化大师的注解, 
 将咒文分段记忆，每段咒语附上注音和简单解释。
 ```
-[请法](preface.md "请法")
+[请法](prepare.md "请法")
 
 [第一会  毗卢真法会](https://github.com/eiffelqiu/ShurangamaMantra/blob/master/chapter1.md "第一会  毗卢真法会")
 
