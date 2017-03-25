@@ -76,32 +76,32 @@
 >>     yào chā jiē là hē
 >>>      吞火鬼
 
->#####  罗刹娑揭罗诃
->>     là chà suō.jiē là hē
+>#####  罗刹娑, 揭罗诃
+>>     là chà suō. jiē là hē
 >>>      吞水鬼
 
->#####  闭隶多揭罗诃 
->>     bì lí duō.jiē là hē
+>#####  闭隶多,  揭罗诃 
+>>     bì lí duō. jiē là hē
 >>>      交手鬼
 
->#####  毗舍遮揭罗诃 
->>     pí shě zhē.jiē là hē
+>#####  毗舍遮, 揭罗诃 
+>>     pí shě zhē. jiē là hē
 >>>      交足鬼
 
 >#####  部多揭罗诃 
 >>     bù duō jiē là hē
 >>>      交身鬼
 
->#####  鸠盘茶揭罗诃 
->>     jiū pán chá.jiē là hē
+>#####  鸠盘茶, 揭罗诃 
+>>     jiū pán chá. jiē là hē
 >>>      分形鬼
 
 >#####  悉乾陀揭罗诃 
->>     xī qián tuó.jiē là hē
+>>     xī qián tuó. jiē là hē
 >>>      吐烟鬼
 
->#####  乌怛摩陀揭罗诃
->>     wū dá mó tuó.jiē là hē
+>#####  乌怛摩陀, 揭罗诃
+>>     wū dá mó tuó. jiē là hē
 >>>      吐火鬼
  
 >#####  车夜揭罗诃 
@@ -109,35 +109,35 @@
 >>>      形影鬼
 
 >#####  阿播萨摩罗, 揭罗诃 
->>     ā bō sà mó là.jiē là hē
+>>     ā bō sà mó là. jiē là hē
 >>>      羊头瞋鬼
 
 >#####  宅袪革, 茶耆尼, 揭罗诃
->>     zhái qū gé.chá qí ní.jiē là hē 
+>>     zhái qū gé. chá qí ní. jiē là hē 
 >>>      刑人狐鬼、狸魅女鬼
 
 >#####  唎佛帝, 揭罗诃 
->>     lī fó dì.jiē là hē
+>>     lī fó dì. jiē là hē
 >>>      恼小儿鬼
 
 >#####  闍弥迦, 揭罗诃 
->>     shé mí jiā.jiē là hē
+>>     shé mí jiā. jiē là hē
 >>>      如乌鬼
 
->#####  舍俱尼揭罗诃 
->>     shě jù ní.jiē là hē
+>#####  舍俱尼, 揭罗诃 
+>>     shě jù ní. jiē là hē
 >>>      如鸟鬼
 
 >#####  姥陀罗难地迦, 揭罗诃
->>     lao tuó là nán dì jiā.jiē là hē
+>>     lao tuó là nán dì jiā. jiē là hē
 >>>      如猫鬼
  
 >#####  阿蓝婆揭罗诃 
->>     ā lán pó.jiē là hē
+>>     ā lán pó. jiē là hē
 >>>      如蛇鬼
 
 >#####  乾度波尼, 揭罗诃 
->>     qián dù bō ní.jiē là hē
+>>     qián dù bō ní. jiē là hē
 >>>      如鸡鬼
 
 #### 五部源流
@@ -167,7 +167,7 @@
 >>>      常热鬼
  
 >#####  毖钐摩什伐罗
->>     bì shān mó.shí fá là
+>>     bì shān mó. shí fá là
 >>>      增寒鬼
  
 >#####  薄底迦 
@@ -189,7 +189,7 @@
 #### 四天始本
 
 >#####  萨婆什伐罗, 室嚧吉帝 
->>     sà pó shí fá là . shì lú jí dì
+>>     sà pó shí fá là. shì lú jí dì
 >>>      头病鬼
 
 >#####  末陀鞞达嚧制剑 
@@ -211,7 +211,7 @@
 #### 三种相续
  
 >#####  揭罗诃揭蓝 羯拏输蓝
->>     jiē là hē.jiē lán.jié nú shū lán 
+>>     jiē là hē.jiē lán. jié nú shū lán 
 >>>      身病鬼
 
 >#####  惮多输蓝
@@ -329,7 +329,7 @@
 >>>      药草毒鬼
  
 >#####  地栗剌, 吒毖唎瑟质迦 
->>     dì lì là zhà.bì lī sè zhì jiā
+>>     dì lì là zhà. bì lī sè zhì jiā
 >>>      蝎毒鬼
 
 >#####  萨婆那俱罗 
@@ -363,21 +363,21 @@
 >>>      依此大白伞盖心咒
 
 >#####  摩诃跋闍嚧瑟尼钐, 摩诃般赖丈耆蓝, 夜波突陀, 舍喻闍那, 辫怛隶拏 
->>     mó hē bá shé lú sè ní shān.  mó hē bō lài zhàng qí lán. yè bō tū tuó.shě yù shé nuó. biàn dá lí nú
+>>     mó hē bá shé lú sè ní shān. mó hē bō lài zhàng qí lán. yè bō tū tuó.shě yù shé nuó. biàn dá lí nú
 >>>      启请火头金刚藏王、诸护法大力士神王圣众，至此尽庆圆成
 
 #### 三部理证
  
->#####  毗陀耶盘昙迦嚧弥 
->>     pí tuó yē.pán tán jiā lú mí
+>#####  毗陀耶, 盘昙迦嚧弥 
+>>     pí tuó yē. pán tán jiā lú mí
 >>>      依此佛顶光聚大明心咒，不得入我结缚界内
 
->#####  帝殊盘昙迦嚧弥 
->>     dì shū.pán tán jiā lú mí
+>#####  帝殊, 盘昙迦嚧弥 
+>>     dì shū. pán tán jiā lú mí
 >>>      十二由旬结界地面，禁缚诸恶一切邪魔恶鬼神王，不能进入扰害
 
->#####  般罗毗陀盘昙迦嚧弥 
->>     bō là pí tuó.pán tán jiā lú mí
+>#####  般罗毗陀, 盘昙迦嚧弥 
+>>     bō là pí tuó. pán tán jiā lú mí
 >>>      依此咒缚诸恶鬼神众
 
 >#####  跢侄他, 唵, 阿那隶, 毗舍提, 鞞罗跋闍罗陀唎, 盘陀盘陀你, 跋闍罗, 谤尼泮, 虎（合牛）,都嚧甕泮莎婆诃
