@@ -3,7 +3,7 @@
 #### 一 应作五部
 
 >#####  乌（合牛）, 唎瑟揭拏, 般剌舍悉多, 萨怛他, 伽都瑟尼钐
->>     wū xīn. lī sè jiē nú. bō là shě xī duō . sà dá tuō . qié dū sè ní shān
+>>     wū xīn. lī sè jiē nú. bō là shě xī duō. sà dá tuō. qié dū sè ní shān
 >>>      嗡 警觉一切 押领一切部众、善圆成我等天仙、今当敬礼如来大佛顶咒 
 
 #### 二 现证三宝
