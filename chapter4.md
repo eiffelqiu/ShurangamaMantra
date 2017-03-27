@@ -106,7 +106,7 @@
 
 >#####  跋闍罗, 俱摩唎, 毗陀夜, 罗誓弊泮
 >>     bá shé là. jù mó lī. pí tuó yè. là shì bì pàn
->>>      解诸恶毒, 花鬘童子， 
+>>>      解诸恶毒, 花鬘童子, 佛陀  
  
 >#####  摩诃波罗丁羊, 乂耆唎弊泮 
 >>     mó hē bō là dīng yang. i qí lī bì pàn
