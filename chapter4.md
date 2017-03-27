@@ -6,19 +6,19 @@
 >>     pó qié fàn. sà dá duō. bō dá là 
 >>>      再仰佛力华盖
 
->#####  南无粹都帝. 阿悉多那罗剌迦. 波罗婆. 悉普吒. 毗迦萨怛多钵帝唎 
+>#####  南无粹都帝，阿悉多那罗剌迦，波罗婆，悉普吒，毗迦萨怛多，钵帝唎 
 >>     ná mó cuì dū dì. ā xī duō nuó là là jiā. bō là pó. xī pǔ zhà. pí jiā sà dá duō. bō dì lī
 >>>      我今敬礼，赤光缭绕、紫光盘簇、白光旋转
 
->#####  什佛罗什佛罗 
+>#####  什佛罗，什佛罗 
 >>     shí fó là. shí fó là
 >>>      光燄遍照、光燄遍照
 
 >#####  陀罗,陀罗,频陀罗,频陀罗,瞋陀,瞋陀 
->>     tuó là. tuó là. pín tuó là. pín tuó là. chēn tuó chēn tuó
+>>     tuó là. tuó là. pín tuó là. pín tuó là. chēn tuó. chēn tuó
 >>>      云盖、云盖香盖、香盖珠盖、珠盖遍满法界、遍满法界
 
->#####  虎（合牛）虎（合牛）泮吒,泮吒,泮吒,泮吒,泮吒,娑诃
+>#####  虎（合牛），虎（合牛），泮吒,泮吒,泮吒,泮吒,泮吒,娑诃
 >>     hú xīn. hú xīn. pàn zhà. pàn zhà. pàn zhà. pàn zhà. pàn zhà. suō hē
 >>>      降伏、降伏、摧碎、摧碎、摧碎、摧碎、摧碎，灾恶顿消，吉祥成就. 敕天上地下一切众，灭除众恶收摄不祥
 
@@ -62,8 +62,8 @@
 >>     sà pó tū láng zhǐ dì bì pàn
 >>>      降伏一切诸魔
 
->#####  萨婆突涩比犁讫瑟帝弊泮 
->>     sà pó tū sè bǐ lí.qì sè dì bì pàn
+>#####  萨婆突涩比犁，讫瑟帝弊泮 
+>>     sà pó tū sè bǐ lí. qì sè dì bì pàn
 >>>      降伏一切诸恶
 
 >#####  萨婆什婆唎弊泮
@@ -94,19 +94,19 @@
 
 >#####  闍夜羯罗, 摩度羯罗, 萨婆罗, 他娑陀鸡弊泮 
 >>     shé yè jié là. mó dù jié là. sà pó là. tuō suō tuó jī bì pàn
->>>      解诸重难
+>>>      解诸重难，护法护佛， 
 
 >#####  毗地夜, 遮唎弊泮
->>     pí dì yè.zhē lī bì pàn
+>>     pí dì yè. zhē lī bì pàn
 >>>      解疟壮热疟
 
 >#####  者都罗, 缚耆你弊泮 
 >>     zhě dū là. fù qí nǐ bì pàn
 >>>      降伏外道
 
->#####  跋闍罗俱摩唎毗陀夜罗誓弊泮
->>     bá shé là. jù mó lī  pí tuó yè. là shì bì pàn
->>>      解诸恶毒
+>#####  跋闍罗, 俱摩唎, 毗陀夜, 罗誓弊泮
+>>     bá shé là. jù mó lī. pí tuó yè. là shì bì pàn
+>>>      解诸恶毒, 花鬘童子， 
  
 >#####  摩诃波罗丁羊, 乂耆唎弊泮 
 >>     mó hē bō là dīng yang. i qí lī bì pàn
@@ -117,7 +117,7 @@
 >>>      降伏一切恶道
 
 >#####  摩诃迦罗夜, 摩诃末怛唎迦拏
->>     mó hē jiā là yè . mó hē mò dá lī jiā nú.
+>>     mó hē jiā là yè. mó hē mò dá lī jiā nú.
 >>>      降伏一切苦毒
 
 #### 五 天神奉行
@@ -167,7 +167,7 @@
 >>>      降伏食光大神
 
 >#####  阿地目质多, 迦尸摩舍那, 婆私你曳泮
->>     ā dì mù zhì duo. jiā shī mó shě nuó . pó sī nǐ yè pàn
+>>     ā dì mù zhì duo. jiā shī mó shě nuó. pó sī nǐ yè pàn
 >>>      降伏诸持作大鬼帅，一切有力鬼神
 
 #### 六 结归满愿
