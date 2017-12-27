@@ -26,7 +26,7 @@
 >>     hú xīn dū lú yōng. sà pó yào chā. hē là chà suō. jiē là hē ruò shé. pí téng bēng sà nuó jié là
 >>>     虎：弥陀佛字种；吽：阿閦佛字种；都：成就佛字种；嚧：宝生佛字种；雍：毗卢佛字种 一切空行药叉、地行罗刹众等 破怨除难，度去一切苦厄  
 
-四 迹示金刚将
+#### 四 迹示金刚将
 
 >#####  虎（合牛）都嚧雍, 者都罗, 尸底南, 揭罗诃, 娑诃萨罗南, 毗腾崩萨那罗  
 >>     hú xīn dū lú yōng. zhě dū là. shī dǐ nán. jiē là hē. suō hē sà là nán. pí téng bēng. sà nuó là
