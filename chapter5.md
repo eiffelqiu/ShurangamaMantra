@@ -140,7 +140,7 @@
 >>     qián dù bō ní. jiē là hē
 >>>      如鸡鬼
 
-#### 五部源流
+#### 三 五部源流
 
 >#####  什佛罗
 >>     shí fá là
@@ -186,7 +186,7 @@
 >>     suō nǐ bō dì jiā
 >>>      痢病鬼
 
-#### 四天始本
+#### 四 四天始本
 
 >#####  萨婆什伐罗, 室嚧吉帝 
 >>     sà pó shí fá là. shì lú jí dì
@@ -208,7 +208,7 @@
 >>     jié lī tū lú qián
 >>>      唇痛鬼
 
-#### 三种相续
+#### 五  三种相续
  
 >#####  揭罗诃揭蓝 羯拏输蓝
 >>     jiē là hē.jiē lán. jié nú shū lán 
@@ -266,7 +266,7 @@
 >>     suō fang àng qié. bō là zhàng qié shū lán
 >>>     两膊痛鬼 
 
-#### 杂乘显真
+#### 六 杂乘显真
 
 >#####  部多毖跢茶
 >>     bù duō bì duò chá
@@ -336,7 +336,7 @@
 >>     sà pó nuó jù là
 >>>      蛇毒鬼
 
-#### 五界咒就
+#### 七 五界咒就
  
 >#####  肆引伽弊
 >>     sì yǐn qié bì
@@ -366,7 +366,7 @@
 >>     mó hē bá shé lú sè ní shān. mó hē bō lài zhàng qí lán. yè bō tū tuó.shě yù shé nuó. biàn dá lí nú
 >>>      启请火头金刚藏王、诸护法大力士神王圣众，至此尽庆圆成
 
-#### 三部理证
+#### 八 三部理证
  
 >#####  毗陀耶, 盘昙迦嚧弥 
 >>     pí tuó yē. pán tán jiā lú mí
